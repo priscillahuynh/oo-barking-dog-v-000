@@ -10,7 +10,6 @@ class Dog
 
   def name
     @name
-    puts "woof!"
   end
 
 end
